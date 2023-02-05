@@ -95,7 +95,7 @@ class CalculadoraImcState extends State<CalculadoraImc> {
                                 },
                                 child: const Text(
                                   "Enviar",
-                                  
+                                  style: TextStyle(color: Colors.white),
                                 )),
                           ],
                         )
